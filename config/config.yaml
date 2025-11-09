@@ -101,7 +101,7 @@ platforms:
     name: "知乎"
   - id: "hupu"
     name: "虎扑"
-    - id: "ithome"
+  - id: "ithome"
     name: "IT之家"
   - id: "juejin"
     name: "掘金"
